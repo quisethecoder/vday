@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
       bgMusic.play().catch(err => console.error('Music play error:', err));
       
       // Replace the heading text
-      header.textContent = "Happy Second Valentines Dayva, My Love!";
+      header.textContent = "Happy Second Valentines Day, My Love!";
       
       // Show the love message with a fade-in effect
       loveMessage.classList.add('show');
